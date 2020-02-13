@@ -1,0 +1,8 @@
+package algoritmic_on_Golang
+import "fmt"
+
+func main() {
+	ar:=[]int{11, 45, 68, 90, 29, 11, 11}
+
+	InsertionSort(ar)
+	fmt.Println(ar)}
